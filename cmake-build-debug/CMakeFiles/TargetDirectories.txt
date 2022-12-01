@@ -1,0 +1,3 @@
+C:/Users/Terence/Documents/OneDrive - Ashesi University/Current Courses/Intermediate Computer Programming/C++ Project/cmake-build-debug/CMakeFiles/C___Project.dir
+C:/Users/Terence/Documents/OneDrive - Ashesi University/Current Courses/Intermediate Computer Programming/C++ Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Terence/Documents/OneDrive - Ashesi University/Current Courses/Intermediate Computer Programming/C++ Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
